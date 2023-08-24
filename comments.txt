@@ -1,0 +1,15 @@
+background-image: url(./assets/assets/bg-mobile.jpg);
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+background: color image repeat position/size;
+display inline não aceita margin:auto para centralizar
+para centralizar display inline eu posso utilizar text-align:center no pai
+para centralizar display inline eu posso utilizar display: block + margin:auto
+
+DISPLAY BLOCK
+margin: 0 auto;
+
+DISPLAY FLEX
+justify-content: center;
+align-items: center;
